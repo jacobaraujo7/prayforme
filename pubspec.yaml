@@ -20,7 +20,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   rxdart:
-  bloc_pattern:
+  bloc_pattern: ^1.5.1
 
 dev_dependencies:
   flutter_test:
